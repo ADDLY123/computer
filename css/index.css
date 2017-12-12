@@ -1,0 +1,96 @@
+/*
+* @Author: 17695
+* @Date:   2017-12-11 17:28:38
+* @Last Modified by:   17695
+* @Last Modified time: 2017-12-12 13:55:10
+*/
+*{
+	margin: 0;
+	padding: 0;
+}
+
+
+.head{
+	width: 1080px;
+	height: 168px;
+	background-color: #00A5C4
+}
+.head-left{
+	line-height: 168px;
+	color: #fff;
+	font-weight: 300;
+	margin-left: 50px;
+	font-size: 53px;
+	float: left;
+}
+.head-right{
+	width: 13px;
+	height: 53px;
+	float: right;
+	margin-top: 57.5px;
+	margin-right: 65px;
+}
+.yuan{
+	width: 13px;
+	height: 13px;
+	background-color: #fff; 
+	border-radius: 50%;
+}
+.yuan1{
+	margin-top: 7px;
+	margin-bottom: 7px;
+}
+.view{
+	width: 1080px;
+	height: 561px;
+	background-color: #f0f0f0;
+}
+.view-tiao{
+	width: 4px;
+	height: 165px;
+	background-color: #00A5C4;
+	float: right;
+	margin-top: 18px;
+	margin-right: 33px;
+}
+.lishi{
+	width: 1080px;
+	height: 102px;
+	background-color: #dfe3e4;
+	overflow: hidden;
+}
+.lishi-center{
+	width: 64px;
+	height: 31px;
+	background-color: #ccc;
+	margin: 0 auto;
+	margin-top: 35px;
+}
+.jianpan{
+	width: 1080px;
+	height: 1089px;
+	background-color: #dfe3e4;
+}
+.btn{
+	width: 265px;
+	height: 214px;
+	background-color: #fafafa;
+	float: left;
+	margin-right: 6px;
+	margin-bottom: 6px;
+	font-size: 100px;
+	font-weight: 500;
+	line-height: 214px;
+	text-align: center;
+	color: skyblue;
+	font-family: "Gray Design Medium","San FranciscoDisplay Regular";
+}
+.btn1{
+	margin-right: 0;
+}
+.btn2{
+	width: 266px;
+}
+.btn3{
+	height: 209px;
+}
